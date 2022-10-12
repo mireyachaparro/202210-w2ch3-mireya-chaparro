@@ -5,3 +5,6 @@ Challenge en parejas.​Crea un modulo con funciones que repliquen, sin utilizar
 Cualquiera de tus funciones puede usar las que ya hayas creado.​Sample
 
 Testea TODOS los métodos.
+
+cuadrado aplastado se puede usar porque es propiedad
+lo rosa son metodos que son los que no se pueden usar
