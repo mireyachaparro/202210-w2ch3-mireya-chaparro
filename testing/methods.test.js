@@ -7,8 +7,6 @@ describe('given push function', () => {
         const expectedResult = ['pepe', 'pepa'];
         //Act
         const result = myPush(array, value);
-        console.log(result);
-        console.log(expectedResult);
         //Asset
         expect(JSON.stringify(result)).toBe(JSON.stringify(expectedResult));
     });
